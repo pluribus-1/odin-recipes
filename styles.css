@@ -1,23 +1,27 @@
 * {
     font-family: Impact, Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 .navbar {
     background-color: darkcyan;
     height: 75px;
     margin: 20px 0;
+    outline: auto;
 }
 
 h1 {
-    display: inline;
+    display: inline-block;
     color: white;
-    font-size: 32px;
+    font-size: 31px;
+    margin: 22px 0;
 }
 
-.recipe1,
-.recipe2,
-.recipe3 {
+.recipe {
     height: 350px;
     outline: auto;
-    margin: 40px
+    margin: 40px;
+    padding: 15px;
+    background-color: turquoise;
+    font-size: 70px;  
 }
