@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+    font-family: Impact, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+}
+
+.links {
+    font-size: 90px;
+}
