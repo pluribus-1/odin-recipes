@@ -1,15 +1,23 @@
 * {
-    background-color: black;
     font-family: Impact, Arial, Helvetica, sans-serif;
 }
 
+.navbar {
+    background-color: darkcyan;
+    height: 75px;
+    margin: 20px 0;
+}
+
 h1 {
+    display: inline;
     color: white;
-    background-color: red;
-    text-align: center;
     font-size: 32px;
 }
 
-.links {
-    font-size: 90px;
+.recipe1,
+.recipe2,
+.recipe3 {
+    height: 350px;
+    outline: auto;
+    margin: 40px
 }
