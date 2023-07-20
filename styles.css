@@ -17,6 +17,15 @@ h1 {
     margin: 22px 0;
 }
 
+.side,
+.rightside {
+    margin: 0 auto;
+    height: auto;
+    width: 20px;
+    outline: auto;
+    background-color: whitesmoke;
+}
+
 .links
 div {
     height: 350px;
@@ -25,4 +34,8 @@ div {
     padding: 15px;
     background-color: turquoise;
     font-size: 70px;  
+}
+
+div.recipes {
+    display: flex;
 }
